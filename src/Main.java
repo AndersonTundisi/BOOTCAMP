@@ -53,7 +53,7 @@ public class Main {
         System.out.println("-");
         System.out.println("Conteúdos Inscritos Tundisi:" + dev2.getConteudosInscritos());
         System.out.println("Conteúdos Concluidos Tundisi:" + dev2.getConteudosConcluidos());
-        System.out.println("XP:" + devJoao.calcularTotalXp());
+        System.out.println("XP:" + dev2.calcularTotalXp());
 
     }
 
